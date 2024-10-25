@@ -42,6 +42,8 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 ### PACKAGE DIAGRAM:
 </BR>
 
+![{BE3AE3EE-402E-490B-AD1B-6313A1573C13}](https://github.com/user-attachments/assets/6224af72-fecb-403e-8a56-7722df0895ee)
+
 ### COMMUNICATION DIAGRAM:
 </BR>
 
